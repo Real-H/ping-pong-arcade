@@ -1,5 +1,5 @@
 # ping-pong-java
-this repo include the source coe of 2 player ping pong 2D game in java
+this repo include the source coe of 2-player ping pong 2D Arcade game in java
 
 Description:
 
